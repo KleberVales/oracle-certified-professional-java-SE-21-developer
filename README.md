@@ -1,6 +1,6 @@
 # Estudo para Certificação Java 🧠☕️
 
-Este repositório contém meu material de estudo para a certificação **Oracle Java Programmer**.
+Este repositório contém material de estudo para a certificação **Oracle Java Programmer**.
 
 ## 📚 Conteúdo
 
