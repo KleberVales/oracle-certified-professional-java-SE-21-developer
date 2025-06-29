@@ -1,11 +1,22 @@
-# oracle-certified-professional-java-SE-21-developer
+# Estudo para Certificação Java 🧠☕️
 
-## Chapter 9: Collections and Generics
-### Using Common Collection APIs
-### Using the List Interface
-### Using the Set Interface
-### Using the Queue and Deque Interfaces
-### Using the Map Interface
-### Sorting Data
-### Introducing Sequenced Collections
-### Working with Generics
+Este repositório contém meu material de estudo para a certificação **Oracle Java Programmer**.
+
+## 📚 Conteúdo
+
+- Resumos
+- Exemplos de código
+- Explicações detalhadas dos principais tópicos da prova
+
+## 🗂 Acesse a Wiki
+
+Todo o conteúdo está organizado por tópicos na Wiki do repositório.
+
+👉 **[Clique aqui para acessar a Wiki](../../wiki)** 👈
+
+## 🛠 Tecnologias e recursos usados
+
+- Java 21
+- IntelliJ IDEA
+- Git & GitHub
+- Anotações em Markdown
