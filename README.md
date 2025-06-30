@@ -20,3 +20,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 - IntelliJ IDEA
 - Git & GitHub
 - Anotações em Markdown
+
+## 📅 Status
+
+📌 **Em andamento** — atualizações frequentes durante o período de preparação para o exame.
