@@ -10,7 +10,7 @@ Este repositório contém material de estudo para a certificação **Oracle Java
 
 ## 📂 Tópicos Disponíveis
 
-- [Coleções e Genéricos](./Coleções-e-Genéricos)
+- [Coleções e Genéricos](./wiki/Coleções-e-Genéricos)
 - [Streams](./Streams)
 - [Exceções e Localização](./Exceções-e-Localização)
 - [Módulos](./Módulos)
