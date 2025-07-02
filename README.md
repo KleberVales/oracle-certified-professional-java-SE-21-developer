@@ -11,6 +11,8 @@ Este repositório contém material de estudo para a certificação **Oracle Java
 ## 📂 Tópicos Disponíveis
 
 - [Coleções e Genéricos](./Coleções-e-Genéricos)
+- [Streams](./Streams)
+
 
 
 
