@@ -10,7 +10,7 @@ Este repositório contém material de estudo para a certificação **Oracle Java
 
 ## 📂 Tópicos Disponíveis
 
-- [Coleções e Genéricos](./wiki/Coleções-e-Genéricos)
+- [Coleções e Genéricos]([./wiki/Coleções-e-Genéricos](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Cole%C3%A7%C3%B5es-e-Gen%C3%A9ricos))
 - [Streams](./Streams)
 - [Exceções e Localização](./Exceções-e-Localização)
 - [Módulos](./Módulos)
