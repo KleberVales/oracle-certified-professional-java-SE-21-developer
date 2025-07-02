@@ -12,6 +12,7 @@ Este repositório contém material de estudo para a certificação **Oracle Java
 
 - [Coleções e Genéricos](./Coleções-e-Genéricos)
 - [Streams](./Streams)
+- [Exceções e Localização](./Exceções-e-Localização)
 
 
 
