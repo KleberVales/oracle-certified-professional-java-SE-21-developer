@@ -41,7 +41,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 ## ✍️ Autor
 
 Kleber Vales  
-Desenvolvedor de Software | Java | Spring Framework | DevOps & Cloud | Métodologias Ágeis | Git & GitHub |
+Desenvolvedor de Software | Java | Spring Framework | DevOps & Cloud | Scrum | Git & GitHub |
 
 Bacharel em Ciência da Computação\
 MBA em Desenvolvimento de Software Web (Cursando)
