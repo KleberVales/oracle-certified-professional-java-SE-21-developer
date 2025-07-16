@@ -41,7 +41,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 ## ✍️ Autor
 
 Kleber Vales  
-Software Developer | Java | Spring Framework | DevOps & Cloud | Scrum | Git & GitHub |JUnit | Hibernate
+Software Developer | Java | Spring Framework | DevOps & Cloud | Scrum | Git & GitHub | JUnit | Hibernate
 
 Bacharel em Ciência da Computação\
 MBA em Desenvolvimento de Software Web (Cursando)
