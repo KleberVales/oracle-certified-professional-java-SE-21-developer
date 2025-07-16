@@ -38,13 +38,20 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 - Git & GitHub
 - Anotações em Markdown
 
+
+
+<br><br><br><br><br><br>
+
 ## ✍️ Autor
+---
 
-Kleber Vales  
-Software Developer | Java | Spring Framework | DevOps & Cloud | Scrum | Git & GitHub | JUnit | Hibernate
+**Kleber Vales**  
 
-Bacharel em Ciência da Computação\
-MBA em Desenvolvimento de Software Web (Cursando)
+*Software Developer*  
+Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
+
+Bachelor's Degree in Computer Science  
+MBA in Web Software Development (Current)
 
 
 
