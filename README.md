@@ -47,11 +47,11 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 
 **Kleber Vales**  
 
-*Software Developer*  
+*Desenvolvedor de Software*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
 
-Bachelor's Degree in Computer Science  
-MBA in Web Software Development (Current)
+Bacharelado em Ciência da Computação  
+MBA em Desenvolvimento de Software (Cursando)
 
 
 
