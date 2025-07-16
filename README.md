@@ -40,7 +40,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 
 
 
-<br><br><br><br><br><br>
+<br><br>
 
 ## ✍️ Autor
 ---
