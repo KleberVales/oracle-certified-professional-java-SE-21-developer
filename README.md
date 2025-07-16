@@ -17,7 +17,7 @@ Este repositório contém material de estudo para a certificação **Oracle Java
 - [Metodos](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/M%C3%A9todos)
 - [Modelagem de Classe](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Modelagem-de-Classe)
 - [Além das Classes](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Al%C3%A9m-das-Classes)
-- [Lambdas e Interfaces Funcionais]
+- [Lambdas e Interfaces Funcionais](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Lambdas-e-Interfaces-Funcionais)
 - [Coleções e Genéricos](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Cole%C3%A7%C3%B5es-e-Gen%C3%A9ricos)
 - [Streams](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Streams)
 - [Exceções e Localização](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Exce%C3%A7%C3%B5es-e-Localiza%C3%A7%C3%A3o)
