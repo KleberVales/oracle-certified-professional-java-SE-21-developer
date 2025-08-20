@@ -47,7 +47,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 
 **Kleber Vales**  
 
-*Desenvolvedor de Software*  
+*Back-end Software Engineer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
 
 Bacharelado em Ciência da Computação  
