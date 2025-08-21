@@ -42,8 +42,9 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 
 <br><br>
 
+--- 
+
 ## ✍️ Autor
----
 
 **Kleber Vales**  
 
