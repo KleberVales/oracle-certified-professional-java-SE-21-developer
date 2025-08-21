@@ -51,7 +51,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
 
 Bacharelado em Ciência da Computação  
-MBA em Desenvolvimento de Software (Cursando)
+MBA em Desenvolvimento de Software Web
 
 
 
