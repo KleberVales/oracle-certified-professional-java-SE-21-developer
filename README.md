@@ -51,7 +51,7 @@ Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 *Back-end Software Engineer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate  
 
-🏆**OCA: Java SE 7 Programmer** 🏆**MTA: Software Development** 
+🏆**OCA: Java SE 7 Programmer** 🏆**MTA: Software Development** 🏆**Scrum Certified** 
 
 Bacharelado em Ciência da Computação  
 MBA em Desenvolvimento de Software Web
