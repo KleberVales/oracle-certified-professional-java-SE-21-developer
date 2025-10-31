@@ -10,10 +10,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 
 ## 📂 Tópicos Disponíveis
 
-<a href="https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Operadores" style="text-decoration:none;">
-1. Fundamentos do Java
-</a>
-
+- [Fundamentos do Java](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Operadores)
 - [Operadores](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Operadores)
 - [Estruturas de decisão](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Estrutura-de-decis%C3%A3o)
 - [APIs básicas](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/APIs-b%C3%A1sicas)
