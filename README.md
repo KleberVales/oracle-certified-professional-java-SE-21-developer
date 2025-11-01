@@ -23,7 +23,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 11. [Exceções e Localização](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Exce%C3%A7%C3%B5es-e-Localiza%C3%A7%C3%A3o)
 12. [Módulos](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/M%C3%B3dulos)
 13. [Concorrência](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Concorr%C3%AAncia)
-- [Entrada e Saída de Dados](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Entrada-e-Sa%C3%ADda-de-Dados)
+14. [Entrada e Saída de Dados](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Entrada-e-Sa%C3%ADda-de-Dados)
 
 ## 🗂 Acesse a Wiki
 
