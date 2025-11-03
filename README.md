@@ -4,9 +4,9 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 
 ## 📚 Content
 
-- Resumos
-- Exemplos de código
-- Explicações detalhadas dos principais tópicos da prova
+- Summaries
+- Code examples
+- Detailed explanations of the main topics of the exam
 
 ## 📂 Tópicos Disponíveis
 
