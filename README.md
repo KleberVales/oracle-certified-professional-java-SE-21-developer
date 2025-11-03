@@ -27,7 +27,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 
 ## 🗂 Access the Wiki
 
-Todo o conteúdo está organizado por tópicos na Wiki do repositório.
+All content is organized by topic in the repository's Wiki.
 
 👉 **[Clique aqui para acessar a Wiki](../../wiki)** 👈
 
