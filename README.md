@@ -29,7 +29,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 
 All content is organized by topic in the repository's Wiki.
 
-👉 **[Clique aqui para acessar a Wiki](../../wiki)** 👈
+👉 **[Click here to access the Wiki.](../../wiki)** 👈
 
 ## 🛠 Tecnologias e recursos usados
 
