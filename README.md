@@ -2,7 +2,7 @@
 
 Este repositório contém material de estudo para a certificação **Oracle Certified Professional: Java SE 21**.
 
-## 📚 Conteúdo
+## 📚 Content
 
 - Resumos
 - Exemplos de código
