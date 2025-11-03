@@ -54,7 +54,7 @@ Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibe
 🏆**OCA: Java SE 7 Programmer** 🏆**MTA: Software Development** 🏆**Scrum Certified** 🏆**OCI: DevOps Professional**
 
 Bachelor's Degree in Computer Science 
-MBA em Desenvolvimento de Software Web
+MBA in Web Software Development
 
 
 
