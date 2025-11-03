@@ -25,7 +25,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 13. [Concurrency](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Concorr%C3%AAncia)
 14. [I/O](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Entrada-e-Sa%C3%ADda-de-Dados)
 
-## 🗂 Acesse a Wiki
+## 🗂 Access the Wiki
 
 Todo o conteúdo está organizado por tópicos na Wiki do repositório.
 
