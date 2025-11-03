@@ -36,7 +36,7 @@ All content is organized by topic in the repository's Wiki.
 - Java 21
 - IntelliJ IDEA
 - Git & GitHub
-- Anotações em Markdown
+- Markdown annotations
 
 
 
