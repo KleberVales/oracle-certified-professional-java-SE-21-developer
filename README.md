@@ -44,7 +44,7 @@ All content is organized by topic in the repository's Wiki.
 
 --- 
 
-## ✍️ Autor
+## ✍️ Author
 
 **Kleber Vales**  
 
