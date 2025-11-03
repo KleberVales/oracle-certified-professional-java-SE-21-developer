@@ -31,7 +31,7 @@ All content is organized by topic in the repository's Wiki.
 
 👉 **[Click here to access the Wiki.](../../wiki)** 👈
 
-## 🛠 Tecnologias e recursos usados
+## 🛠 Technologies and resources used
 
 - Java 21
 - IntelliJ IDEA
