@@ -1,4 +1,4 @@
-# Estudo para Certificação Java OCP 21 🧠☕️
+# Study for Java OCP 21 Certification 🧠☕️
 
 Este repositório contém material de estudo para a certificação **Oracle Certified Professional: Java SE 21**.
 
