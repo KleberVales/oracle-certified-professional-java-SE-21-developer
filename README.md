@@ -12,7 +12,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 
 1. [Building Blocks](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/01.-Building-Blocks)
 2. [Operators](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/02.-Operators)
-3. [Estruturas de decisão](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/03.-Making-Decisions)
+3. [Making Decisions](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/03.-Making-Decisions)
 4. [APIs básicas](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/APIs-b%C3%A1sicas)
 5. [Metodos](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/M%C3%A9todos)
 6. [Modelagem de Classe](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Modelagem-de-Classe)
