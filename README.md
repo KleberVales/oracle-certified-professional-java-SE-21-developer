@@ -8,7 +8,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 - Code examples
 - Detailed explanations of the main topics of the exam
 
-## 📂 Tópicos Disponíveis
+## 📂 Available Topics
 
 1. [Fundamentos do Java](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/01.-Building-Blocks)
 2. [Operadores](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/02.-Operators)
