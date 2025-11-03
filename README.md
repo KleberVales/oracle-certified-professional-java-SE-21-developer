@@ -14,7 +14,7 @@ Este repositório contém material de estudo para a certificação **Oracle Cert
 2. [Operators](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/02.-Operators)
 3. [Making Decisions](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/03.-Making-Decisions)
 4. [Core APIs](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/APIs-b%C3%A1sicas)
-5. [Metodos](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/M%C3%A9todos)
+5. [Methods](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/M%C3%A9todos)
 6. [Modelagem de Classe](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Modelagem-de-Classe)
 7. [Além das Classes](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Al%C3%A9m-das-Classes)
 8. [Lambdas e Interfaces Funcionais](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Lambdas-e-Interfaces-Funcionais)
