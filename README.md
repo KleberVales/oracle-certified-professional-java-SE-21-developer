@@ -37,6 +37,7 @@ All content is organized by topic in the repository's Wiki.
 - IntelliJ IDEA
 - Git & GitHub
 - Markdown annotations
+- preparatory exercises
 
 
 
