@@ -39,6 +39,7 @@ All content is organized by topic in the repository's Wiki.
 - Markdown annotations
 - preparatory exercises
 - Code analysis
+- Guide to Java 21 certification
 
 
 
