@@ -38,6 +38,7 @@ All content is organized by topic in the repository's Wiki.
 - Git & GitHub
 - Markdown annotations
 - preparatory exercises
+- Code analysis
 
 
 
